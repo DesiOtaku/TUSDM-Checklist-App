@@ -1,0 +1,80 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+	<title>0110 Exam (New Patient Exam)</title> 
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/> 
+	<link rel="stylesheet" href="jquery.mobile-1.3.1.min.css" />
+	<script src="jquery-2.0.0.min.js"></script>
+	<script src="jquery.mobile-1.3.1.min.js"></script>
+<script>
+
+</script>
+
+</head> 
+<body> 
+
+<!--Homepage-->
+<div data-role="page" id="home" data-title="0110 Exam (New Patient Exam)">
+<div data-role="header" > 
+	<h1>0110 Exam (New Patient Exam)</h1> 
+	<a href="index.html" data-icon="home" data-iconpos="notext" rel="external">Home</a>
+</div>  <!-- /header -->
+<div data-role="content">	
+
+<h3>Before Patient Arrives</h3>
+<label><input type="checkbox" />Setup room 406A, get patient info sheet from PA</label>	
+<label><input type="checkbox" />Axium → Rolodex → enter record # → double click on patient → make sure they are selected</label>
+<label><input type="checkbox" />Go to Electronic Health Record → Select Forms Tab → Click on Green + button → Select EPR (unless this is an emergency)</label>
+
+<h3>After Getting the Patient</h3>
+<label><input type="checkbox" />Get patient, and take white card from patient, introduce yourself</label>
+<label><input type="checkbox" />Explain the purpose of today's appointment (45 mins, screening exam)</label>
+<label><input type="checkbox" />Explain the usual appointment length (3 hours), days (M-F), times (9-12, 1-4, 4:30-7)</label>
+<label><input type="checkbox" />Explain that the patient should be here for the entire duration of the appointment</label>
+<label><input type="checkbox" />Explain that payment is expected at time of, or before a procedure is done</label>
+
+<h3>Assuming patient said "yes", do consent forms</h3>
+<label><input type="checkbox" />Click on blue "Attachments" Tab, Select consent forms on the left, click "Green +" button, Date is set to today, set expiry 1 year from today, click on "NPE" (Allows you to do basic screening exam/diagnosis/radiographs)</label>
+<label><input type="checkbox" />Repeat the previous step but with "FINAN1" (pt. agrees to pay at the time of or before treatment)</label>
+<label><input type="checkbox" />Repeat the previous step but with "MEDCON" (pt. gives permission to ctact their MD if you have questions</label>
+
+<h3>Medical History</h3>
+<label><input type="checkbox" />Go to Forms Tab → Patient Admissin Tab (go up to Blood Pressure)</label>
+<label><input type="checkbox" />Fill out patient history and have patient sign it when you are done</label>
+
+
+<h3>Exam</h3>
+<label><input type="checkbox" />Intraoral → look for decay, caries, oral cancer screening, etc. </label>
+<label><input type="checkbox" />Extraoral → appearance, check lymph nodes</label>
+
+<h3>Treatment planning</h3>
+<label><input type="checkbox" />Go to Tx History Tab, Click Green + button</label>
+<label><input type="checkbox" />Add D0110 - Screening Exam</label>
+<label><input type="checkbox" />Add D0150 - Comprehensive Oral Evaluation</label>
+<label><input type="checkbox" />Add Cambra exam</label>
+<label><input type="checkbox" />Right click on D0110, click complete treatments</label>
+<label><input type="checkbox" />Right click on D0110, click "Add Tx Note...", click "OK", click "..." find 0110 (add your name to the case note if you want the patient)</label>
+<label><input type="checkbox" />If pt is a good condidate for the school, double click on the first note, if not, select second note, click OK</label>
+
+<h3>Radiographs: if MassHealth</h3>
+<label><input type="checkbox" />Add D0210; Intraoral Complete Series (FMX) [$73]</label>
+<label><input type="checkbox" />Add D0396AP, Additional Panoramic [$64]</label>
+
+<h3>Radiographs: if Delta or self pay</h3>
+<label><input type="checkbox" />D0330; Panoramic Film (PAN) [$64]</label>
+<label><input type="checkbox" />D0396BW, No chare BWs [$46]</label>
+
+
+<h3>Finishing up</h3>
+<label><input type="checkbox" />Go get PC to swipe everything</label>
+<label><input type="checkbox" />Bring pt to radiology</label>
+<label><input type="checkbox" />Take impressions if time permits</label>
+
+</div><!-- / home content -->
+</div><!-- /home page -->
+
+
+
+</body>
+</html>

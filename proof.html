@@ -1,0 +1,49 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+	<title>Proof of Concept Page</title> 
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<link rel="stylesheet" href="jquery.mobile-1.3.1.min.css" />
+	<script src="jquery-2.0.0.min.js"></script>
+	<script src="jquery.mobile-1.3.1.min.js"></script>
+	
+
+<script>
+function test() {
+$("#block").animate({
+    opacity: 1,
+  }, 1000 );
+}
+</script>
+	
+</head> 
+<body> 
+<div data-role="page">
+
+<div data-role="header" > 
+	<h1>Amalgam procedure</h1> 
+</div>  <!-- /header -->
+
+<div data-role="content">	
+
+<label><input type="checkbox" name="check1" />Get "operative kit" from dispensary</label>	
+<label><input type="checkbox" name="check2" />Get rubber dam ready</label>	
+<label><input type="checkbox" name="check3" />Get swipe from PC</label>	
+<label><input type="checkbox" name="check4"  />Remove previous amalgam</label>	
+<label><input type="checkbox" name="check5" />Insert amalgam</label>	
+<label><input type="checkbox" name="check6" />Shape it with the anatomy of the tooth</label>	
+<label><input type="checkbox" name="check7" />Blah</label>	
+<label><input type="checkbox" name="check8" />Blah</label>	
+<label><input type="checkbox" name="check9" onClick="test()" />Blah</label>	
+<a href="http://dental.tufts.edu/">Link to Tufts Dental School</a>
+
+<div id="block" style="opacity: 0;border:3px dashed grey;text-align:center">
+<h1>Case note:</h1>
+A standard operative kit was used for this procedure. A rubber dam was applied to isolate the tooth. The previous amalgam was removed and properly discarded. Some other text, some other text, some other text, some other text. </div>
+
+</div><!-- /content -->
+
+</div><!-- /page -->
+
+</body>
+</html>

@@ -1,43 +1,76 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Tusdm-checklist-app by TejWC</title>
+<!DOCTYPE html> 
+<html> 
+<head> 
+	<title>Checklist Application</title> 
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1"> 
+	<link rel="stylesheet" href="jquery.mobile-1.3.1.min.css">
+	<script src="jquery-2.0.0.min.js"></script>
+	<script src="jquery.mobile-1.3.1.min.js"></script>
+	
+	
+</head> 
+<body> 
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>Tusdm-checklist-app</h1>
-        <p>A checklist app that will help students in the clinic (hopefully)</p>
+<!--Homepage-->
+<div data-role="page" id="home" data-title="Checklist App Homepage">
+<div data-role="header" data-theme="b"> 
+	<h1>Checklist Homepage</h1> 
+</div>  <!-- /header -->
+<div data-role="content">	
+<ul data-role="listview">
+  <li><a href="#exams" data-transition="slide">Exams</a></li>
+  <li><a href="#temps" data-transition="slide">Templates</a></li>
+  <li><a href="#pros" data-transition="slide">Procedures</a></li>
+</ul>
+</div><!-- / home content -->
 
-        <p class="view"><a href="https://github.com/TejWC/TUSDM-Checklist-App">View the Project on GitHub <small>TejWC/TUSDM-Checklist-App</small></a></p>
+<div data-role="footer"  data-position="fixed" data-theme="b"> 
+	<h4>Version 0.01b</h4> 
+</div> 
+
+</div><!-- /home page -->
+
+<!--Exam List-->
+<div data-role="page" id="exams">
+<div data-role="header" data-theme="b"> 
+	<h1>Exams</h1> 
+	<a href="#home" data-icon="home" data-iconpos="notext" data-rel="back">Home</a>
+</div>  <!-- /header -->
+<div data-role="content">	
+<ul data-role="listview">
+  <li><a href="npe.html" rel="external">0110: New Patient Exam (Group 7)</a></li>
+  <li><a href="120.html" rel="external">0120/0121: Transfer Exam</a></li>
+  <li><a href="150.html" rel="external">0150: New Patient Comprehensive</a></li>
+</ul>
+</div><!-- /exam content -->
+</div><!-- /exam page -->
 
 
-        <ul>
-          <li><a href="https://github.com/TejWC/TUSDM-Checklist-App/zipball/master">Download <strong>ZIP File</strong></a></li>
-          <li><a href="https://github.com/TejWC/TUSDM-Checklist-App/tarball/master">Download <strong>TAR Ball</strong></a></li>
-          <li><a href="https://github.com/TejWC/TUSDM-Checklist-App">View On <strong>GitHub</strong></a></li>
-        </ul>
-      </header>
-      <section>
-        <h1>TUSDM-Checklist-App</h1>
 
-<p>A checklist app that will help students in the clinic (hopefully)</p>
-      </section>
-      <footer>
-        <p>This project is maintained by <a href="https://github.com/TejWC">TejWC</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-    
-  </body>
+<!--Template List-->
+<div data-role="page" id="temps">
+<div data-role="header" data-theme="b"> 
+	<h1>Templates</h1> 
+	<a href="#home" data-icon="home" data-iconpos="notext" data-rel="back">Home</a>
+</div>  <!-- /header -->
+<div data-role="content">	
+<h1>No templates yet...</h1>
+</div><!-- /Template content -->
+</div><!-- /Template page -->
+
+<!--Procedures List-->
+<div data-role="page" id="pros">
+<div data-role="header" data-theme="b"> 
+	<h1>Procedures</h1> 
+	<a href="#home" data-icon="home" data-iconpos="notext" data-rel="back">Home</a>
+</div>  <!-- /header -->
+<div data-role="content">	
+<h1>No procedures yet...</h1>
+</div><!-- /Procedures content -->
+</div><!-- /Procedures page -->
+
+
+
+</body>
 </html>
