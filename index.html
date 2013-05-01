@@ -18,7 +18,7 @@
 
 <!--Homepage-->
 <div data-role="page" id="home" data-title="Checklist App Homepage">
-<div data-role="header" > 
+<div data-role="header" data-theme="b"> 
 	<h1>Checklist Homepage</h1> 
 </div>  <!-- /header -->
 <div data-role="content">	
@@ -28,15 +28,18 @@
   <li><a href="#pros" data-transition="slide">Procedures</a></li>
 </ul>
 </div><!-- / home content -->
+
+<div data-role="footer"  data-position="fixed" data-theme="b"> 
+	<h4>Version 0.01b</h4> 
+</div> 
+
 </div><!-- /home page -->
-
-
 
 <!--Exam List-->
 <div data-role="page" id="exams">
-<div data-role="header" > 
+<div data-role="header" data-theme="b"> 
 	<h1>Exams</h1> 
-	<a href="#home" data-icon="home" data-iconpos="notext" data-direction="reverse">Home</a>
+	<a href="#home" data-icon="home" data-iconpos="notext" data-rel="back">Home</a>
 </div>  <!-- /header -->
 <div data-role="content">	
 <ul data-role="listview">
@@ -51,9 +54,9 @@
 
 <!--Template List-->
 <div data-role="page" id="temps">
-<div data-role="header" > 
+<div data-role="header" data-theme="b"> 
 	<h1>Templates</h1> 
-	<a href="#home" data-icon="home" data-iconpos="notext" data-direction="reverse">Home</a>
+	<a href="#home" data-icon="home" data-iconpos="notext" data-rel="back">Home</a>
 </div>  <!-- /header -->
 <div data-role="content">	
 <h1>No templates yet...</h1>
@@ -62,14 +65,16 @@
 
 <!--Procedures List-->
 <div data-role="page" id="pros">
-<div data-role="header"> 
+<div data-role="header" data-theme="b"> 
 	<h1>Procedures</h1> 
-	<a href="#home" data-icon="home" data-iconpos="notext" data-direction="reverse">Home</a>
+	<a href="#home" data-icon="home" data-iconpos="notext" data-rel="back">Home</a>
 </div>  <!-- /header -->
 <div data-role="content">	
 <h1>No procedures yet...</h1>
 </div><!-- /Procedures content -->
 </div><!-- /Procedures page -->
+
+
 
 </body>
 </html>
