@@ -1,0 +1,269 @@
+-Greetings
+Buenos días|Good morning
+Buenas tardes|Good afternoon 
+Buenas noches|Good evening
+-Days of the week
+Lunes|Monday
+Martes|Tuesday
+Miércoles|Wednesday
+Jueves|Thursday
+Viernes|Friday
+Sábado|Saturday
+Domingo|Sunday
+Ahora, Hoy|Today
+Mañana|Tomorrow
+Ayer|Yesterday
+Antier|Day before yesterday
+-Months of the Year and Holidays
+Enero|January
+Febrero|February
+Marzo|March
+Abril|April
+Mayo|May
+Junio|June
+Julio|July 
+Agosto|August
+Septiembre|September
+Octubre|October
+Noviembre|November
+December|December
+Dia Feriado|Holiday
+Vacación|Vacation
+Año Nuevo|New Year
+Feliz Año Nuevo|Happy New Year!
+Pascuas|Easter
+Navidad|Christmas
+Feliz Navidad|Merry Christmas
+Feliz Cumpleaños|Happy Birthday!
+Cumpleaños|Birth date
+-Counting
+Cero|0 zero
+Uno|1 one
+Dos|2 two
+Tres|3 three
+Cuatro|4 four
+Cinco|5 five
+Seis|6 six
+Siete|7 seven
+Ocho|8 eight
+Nueve|9 nine
+Diez|10 ten
+-Colors
+Blanco|White
+Negro|Black
+Cafe|Brown
+Rojo|Red
+Anaranjado|Orange
+Amarillo|Yellow
+Verde|Green
+Azul|Blue
+Morado|Purple
+-Size
+Tamaño|Size
+Grande|Large
+Mediano|Medium
+Pequeño|Small
+-Names
+Señor|Mr. 
+Señora|Mrs. 
+Señorita|Miss
+Doctor|Doctor
+Doctora|Doctor
+Dentista|Dentist
+-Calling your patient...
+Llamando al paciente|Calling your patient...
+Hola mi nombre es______. Yo soy su nuevo/a estudiante dentista. Cuando le gustaria hacer una cita?|Hello my name is_______. I am your new student dentist. When would you like to make an appointment?
+Mi español es limitado, hableme con palabras sencillas por favor.|My Spanish is limited , so please use simple words.
+Su próxima cita es (el día) a (la hora).|Your next appointment is on (date) at (time)
+Estaré a la espera de verle en su próxima cita.|I look forward to seeing you at your next appointment
+Llameme si…|Call me if…
+necesita cancelar la cita|You need to cancel
+tiene algun problema|You have a problem
+tiene preguntas|You have questions
+usted empeora |You get worse
+Mucho gusto en conocerlo (a).|Very nice meeting you.
+-Meeting your patient
+Siéntese por favor|Please sit down
+Cual es el motivo de su visita?|What is the motive of your visit? (Chief Complaint)
+Tiene Dolor?|Do you have pain?
+Repita lo que me dijo, por favor.|Please repeat what you told me.
+Hable más despacio, por favor.|Please speak more slowly.
+Muchas Gracias|Thank You
+De nada|Your Welcome
+Hasta la proxima vez.|Until next time.
+Adios|Goodbye
+-Extraoral Structures
+Estructuras extraorales|Extraoral Structures
+Cabeza|Head
+Cara|Face
+Frente|Forehead
+Ojos|Eyes
+Oídos|Ears
+Nariz|Norse
+Cachetes|Cheeks
+Labios|Lips
+Boca|Mouth
+Barbilla|Chin
+Cuello|Neck
+-Intraoral Structures
+Estructuras intraorales|Intraoral Structures
+Dientes|Teeth
+Lengua|Tongue
+Mandibula|Mandible
+Encias/gingiva|Gums/Gingiva
+Paladar|Palate
+suelo de la boca|Floor of the mouth
+Garganta|Throat
+Mucosa|Mucosa
+Reborde|Ridge
+Saliva|Saliva
+Glandulas salivales|Salivary Glands
+Tejido blando|Soft Tissue
+-Taking Patient History
+Tomando La Historia Del Paciente|Taking Patient History
+Necesitamos tener su historia personal para nuestros archivos |We need to have your personal history for our records.
+Como se llama? |What is your name?
+Nombre?|First Name?
+Apellido?|Last Name?
+Cual es su dirección? |What is your address?
+Cual es su numero de teléfono?|What is your phone number?
+Cual es su fecha de nacimento?|What is your birth date?
+Tiene aseguranza?|Do you have Insurance?
+Cual compañía de seguro? |Which insurance company?
+-Medical History
+Historia Médica|Medical History
+Ha habido cambios en su ….|Have there been any changes in your ..
+Salud|Health
+Dieta|Diet
+Medicamentos|Medications?
+Cual fue la fecha de su último examén médico?|What was the date of your last physical exam?
+Quién es su doctor (a)?|Who is your doctor?
+Tiene usted alguna de las siguientes condiciones?|Do you have any of the following conditions?
+Algún problema cardíaco?|Any cardiac problems?
+Que tipo de problema?|What type of problem?
+Soplo cardíaco?|Heart murmer?
+Marca-pasos ?|Pacemaker?
+Anemia or caracteristicas indicando propensión?|Sickle Cell Anemia or trait?
+Ha tenido usted fiebre reumatica?|Have you had rheumatic fever?
+Tiene usted algún aparato prostetico?|Do you have any prosthetic devices?
+Tiene problemas pulmonarios?|Do you have pulmonary problems?
+Ha tenido usted alguna vez Hepatitis A, B or C?|Have you ever had Hepatitis A, B or C?
+Tiene usted la presión arterial alta?|Do you have high blood pressure?
+Tiene usted algún problema circulatorio?|Do you have any circulatory problems?
+Tiene usted algún problema neurologico?|Do you have any neurological problems?
+Alguna vez a tenido…|Have you had a history of…
+Epilepsia o convulsiones?|epilepsy or seizures?
+Tuberculosis|Tuberculosis
+Problemas del renales o del riñón|Kidney problems
+Ha tenido alguna vez sangrado excesivo/problemas coagulatorios?|Have you ever experienced excessive  bleeding/clotting problems?
+Ha tenido usted tratamiento de radiación?|Have you ever had radiation treatment?
+Ha sido usted diagnosticado (a) con SIDA?|Have you been diagnosed with AIDS?
+Ha tenido cáncer de…?|Do you have a hx of cancer of…?
+Usa usted drogas o alcohol?|Do you have any recreational drug use/alcohol?
+Tiene ud hábito de fumar, uso de rapé o tabaco de mascar?|Do you smoke or use snuff or smokeless tobacco?
+Alguna vez lo han premedicado antes de cualquier tratamiento dental?|Have you ever been premedicated before any dental treatment?
+Esta usted tomando algún(os) medicamento(s)?|Are you currently taking any medications?
+Que medicamento(s)?|What medicaiton(s)?
+Tiene usted alguna alergia a algún medicamento/ anestesico/antibiótico/ analgésico?|Do you have any allergies to any medication/anesthetic/antibiotic/analgesic ?
+Tiene usted alguna otra alergia?|Do you have any other allergies?
+Cuales?|Which Ones?
+Tiene usted algún malestar en este momento?|Are you in any discomfort at this moment?
+Qué tipo de molestia es?|What type of discomfort is it?
+Es un dolor agudo?|Is it sharp?
+Es este diente sensible al calor?|Is the tooth sensitive to heat?
+Frio|Cold?
+Cuando muerde?|When you bite?
+Ha tenido inflamación en esta area?|Have you had any swelling in this area?
+Esta sangrando?|Is it bleeding?
+How long has it been bothering you?|Hace cuanto tiempo le molesta? 
+Cuando fue la última vez que fue al dentista?|When was the last time you went to the dentist?
+Qué le hicieron?|What was done?
+Le tomarón radiografías?|Did you have radiographs taken?
+Ha perdido algún diente?|Have you lost any teeth?
+Por qué?|Why?
+Con que frecuencia se cepilla sus dientes?|How often do you brush your teeth?
+Se cepilla los dientes todos los dias?|Do you brush your teeth everyday?
+Como se cepilla sus dientes?|How do you brush your teeth?
+utiliza usted hilo dental?|Do you use dental floss?
+usa usted un cepillo interproximal?|Do you use an interproximal brush?
+Le sangran las encías? |Do your gums bleed?
+Rechina sus dientes?|Do you grind your teeth?
+Aprieta sus dientes?|Do you clench your teeth?
+Tiene mal aliento?|Do you have bad breath ?
+Sabe usted lo que causa la caries? |Do you know what causes dental caries ?
+sabe usted lo que causa la enfermedad de la encías?|Do you know what causes gum disease?
+Enfermedad periodontal|Periodontal disease
+-Are your teeth sensitive to…
+Son sus dientes sensibles al (a)…|Are your teeth sensitive to…
+Morder|Biting
+Frio|Cold
+Aire|Air
+Calor|Heat
+Dulces|Sweets
+ácido |Sour
+Amargo|Bitter
+Beber|Drinking
+-Types of dental conditions commonly found at a restorative treatment appointment
+Types of dental conditions commonly found at a restorative treatment appointment|Tipos de condiciones dentales encontradas comunmente en una cita de tratamiento restaurativo
+Decay/caries/cavities|Descomposición/caries/cavidades
+Attrition|Atricion
+Grinding|Desgastar
+Abrasion|Abrasión
+Position|Posición
+Staining|Manchas
+Erosion|Erosion
+Abfraction|Abfraccion
+-Description of pain
+Description of pain|Descripciones de dolor
+Intense|Intenso
+Spontaneous|Espontáneo
+Continuous|Continuo/constante
+-Types of Fillings
+Types of Fillings|Tipos de empastaduras
+Silver|Plata
+White|Blanco
+Amalgam|La amalgama
+Metal|El metal
+Composite|La resina Compuesta
+Tooth-colored|de color del diente
+Bonded|Enlazada/edherida
+Crown|La corona
+Bridge|El puente
+Denture|La dentadura
+Root canal|Tratamiento de conducto
+-The tooth
+The tooth|El diente
+Enamel|El Esmalte
+Dentin|La Dentina
+Root|La Raiz
+Nerve|El Nervio
+Pulp|La Pulpa
+Sulcus|El Surco gingival
+Recession|La Recesión
+Implant|El Implante
+-Types of crowns and bridges
+Types of crowns and bridges|Tipos de coronas y puentes
+All-ceramic|De Ceramica/ Porcelana
+All-metal|Metalica/ de Oro
+Ceramic-over -metal|De ceramica sobre metal
+-Types of removable dentures
+Types of removable dentures|Tipos de dentaduras protesicas
+Full |Completa/Total
+Partial|Parcial
+Upper|Superior/Maxilar
+Lower|Inferior/Mandibular
+Over|Sobre-dentadura
+-Oral Problems
+Oral Problems|Problemas orales
+An Abscess|Un absceso
+A cracked tooth|Un diente fracturado
+A cyst|Un quiste
+A fractured jaw|Una mandíbula fracturada
+A fractured tooth|Un diente  fracturada
+A gum infection|infección de las Encias
+An impacted tooth|Un diente retenido/Impactado
+An infection|Una infección
+A tumor|Un tumor
+Bone Fracture|Una fractura de hueso
+Dry Socket|Un alveolo seco/Alveolitis
+Bad breath|Mal aliento
